@@ -28,7 +28,7 @@
 
  💬 Ask me about any Programming language, DSA, Competitive Programming.
 
- 📫 How to reach me **yashbhayani3007@gmail.com**
+ 📫 How to reach me **codeground07@gmail.com**
  
 </div>
 
@@ -100,26 +100,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-   <pre>👨🏼‍🤝‍👨🏼 C O N N E C T  W I T H   M E </pre>
-
- <a href = "https://www.instagram.com/yashbhayani18"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
- <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href = "https://www.youtube.com/@Yashbhayani18"><img src="https://img.shields.io/badge/Youtube-fd1d1d?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a> 
-
-</div>
-
 <br>
 
 <div align="center">
 
  <pre>G I T H U B  S T A T S</pre>
 
- <a  align="center"  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
+ <a  align="center"  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashBhayani18" alt="Yash Bhayani" /></a>
  
  
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhayani18" alt="Yash Bhayani" />
  
 </div>
 
@@ -127,8 +117,8 @@
 
 <div align="center">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" />
- <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBhayani18&show_icons=true&theme=tokyonight" alt="Yash bhayani" />
+ <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashBhayani18&layout=compact&langs_count=8&title_color=F58529"/>
 
 </div>
 
