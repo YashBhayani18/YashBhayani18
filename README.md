@@ -1,6 +1,6 @@
  <div  align="center" > 
 
-<img width="68%"    src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/>
+<img width="68%" src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yash Bhayani</h1>
