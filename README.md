@@ -14,7 +14,7 @@
 
 <div  align="center">
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani&label=Profile%20views&color=0e75b6&style=flat" alt="Yash bhayani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani18&label=Profile%20views&color=0e75b6&style=flat" alt="Yash bhayani" /> </p>
  
 </div>
 
